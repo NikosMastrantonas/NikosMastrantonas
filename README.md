@@ -5,6 +5,7 @@
 </div>
 
 ### 💬 Get in touch
+- Email: nikos.mastrantonas@gmail.com
 - Twitter: https://twitter.com/NikMastrantonas
 - LinkedIn: https://www.linkedin.com/in/nikolaosmastrantonas/
 - ResearchGate: https://www.researchgate.net/profile/Nikolaos_Mastrantonas
