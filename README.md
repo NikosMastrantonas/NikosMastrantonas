@@ -1,7 +1,7 @@
 <div align="center">
   
 ## Hi there 👋 I am Nikos
-### A Civil Engineer-Hydrometeorologist interested in water-related challenges<br/><br/> 
+### I am a Civil Engineer-Hydrometeorologist interested in water-related challenges<br/><br/> 
 </div>
 
 ### 💬 Get in touch
